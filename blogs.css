@@ -1,0 +1,10 @@
+
+.blogs .nav-pills .nav-link.active {
+    background: #E20649;
+}
+.blogs .blog-title {
+    font-size: 1.25rem;
+}
+.blogs a {
+    display: block;
+}
