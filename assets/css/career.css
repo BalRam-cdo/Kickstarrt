@@ -1,0 +1,16 @@
+.card {
+    border: none;
+}
+.card-header {
+    background: #fff;
+    color: #fff;
+    border: none;
+}
+.card-link {
+    color: #E20649;
+}
+.collapsed.card-link {
+    color: #000;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
